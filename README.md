@@ -1,3 +1,3 @@
 # SitemapTester
 
-Web application for evaluating website performance.
+This is a Web application for evaluating website performance.
