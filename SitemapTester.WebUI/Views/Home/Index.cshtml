@@ -1,0 +1,28 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section>
+    <article>
+        <div class="container">
+            <div class="row">
+                <br>
+                <div class="col-xs-2"></div>
+                <div class="col-xs-4">
+                    <div class="form-group form-inline">
+                        @using (Html.BeginForm("GetDomainMeasurements", "Home", FormMethod.Post))
+                        {
+                            <input id="yes" class="form-control" type="url" name="url" placeholder="Enter URL">
+                            <button class="btn btn-primary start-request" type="submit">Start</button>
+                        }
+                    </div>
+                </div>
+                <div class="col-xs-2"></div>
+                <div class="col-xs-4 hint">
+                    <h4><sup>*</sup>Youre request might take a while.</h4>
+                </div>
+            </div>
+        </div>
+    </article>
+</section>
+

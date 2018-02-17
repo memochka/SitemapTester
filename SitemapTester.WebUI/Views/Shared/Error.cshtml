@@ -1,0 +1,15 @@
+﻿@model HandleErrorInfo
+
+@{
+    ViewBag.Title = "Error";
+}
+
+<section>
+    <div class="container">
+        <div class="row error">
+            <h1>@Model.Exception.Message</h1>
+            <img src="~/Content/Exception.png" alt="robot.txt error">
+        </div>
+    </div>
+</section>
+

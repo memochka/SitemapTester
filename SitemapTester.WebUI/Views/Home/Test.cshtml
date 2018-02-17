@@ -1,0 +1,75 @@
+﻿@model IEnumerable<SitemapTester.Domain.Entities.DomainMeasurement>
+
+@{
+    ViewBag.Title = "Test page";
+}
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+    google.charts.load('current', { 'packages': ['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+
+    function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Requested url');
+        data.addColumn('number', 'Responce time');
+
+        $.getJSON("@Url.Action("GetChart", "Home", Model.First())", null, function (chartData) {
+            $.each(chartData, function (i, item) {
+                data.addRow([item.PageUrl, item.MinResponseTime]);
+            });
+
+            var options = {
+                title: 'URLs response time',
+                width: 1300,
+                height: 500
+            };
+
+            var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+            chart.draw(data, options);
+        });
+    }
+</script>
+
+<section>
+    <article>
+        <div class="container">
+            <div class="row">
+                <div id="chart_div">
+                    @* Здесь скрипт выстраивает граффик *@
+                </div>
+            </div>
+        </div>
+    </article>
+    <br>
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-1"></div>
+                <div class="col-md-10">
+                    <br>
+                    <table class="table test-table table-bordered table-striped">
+                        <thead>
+                        <tr>
+                            <th class="test-table-url"><b>URL</b></th>
+                            <th><b>Min Request time</b></th>
+                            <th><b>Max Request time</b></th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td><a href=@item.PageUrl>@item.PageUrl</a></td>
+                                <td>@item.MinResponseTime</td>
+                                <td>@item.MaxResponseTime</td>
+                            </tr>
+                        }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="col-md-1"></div>
+           </div>
+        </div>
+    </article>
+</section>
