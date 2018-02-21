@@ -1,22 +1,11 @@
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\SitemapTester.Domain.dll.config
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\SitemapTester.Domain.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\SitemapTester.Domain.pdb
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\EntityFramework.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\EntityFramework.SqlServer.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\EntityFramework.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\bin\Debug\EntityFramework.SqlServer.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\obj\Debug\SitemapTester.Domain.csprojResolveAssemblyReference.cache
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\obj\Debug\SitemapTester.Domain.csproj.CoreCompileInputs.cache
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\obj\Debug\SitemapTester.Domain.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.Domain\obj\Debug\SitemapTester.Domain.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\SitemapTester.Domain.dll.config
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\SitemapTester.Domain.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\SitemapTester.Domain.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.SqlServer.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.SqlServer.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.csproj.CoreCompileInputs.cache
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.csprojResolveAssemblyReference.cache
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\SitemapTester.Domain.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\SitemapTester.Domain.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.csprojResolveAssemblyReference.cache
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.csproj.CoreCompileInputs.cache
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\obj\Debug\SitemapTester.Domain.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\SitemapTester.Domain.dll.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.Domain\bin\Debug\EntityFramework.SqlServer.xml

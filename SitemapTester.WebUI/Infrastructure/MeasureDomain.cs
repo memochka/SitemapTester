@@ -1,10 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using SitemapTester.WebUI.Abstract;
+using SitemapTester.WebUI.Models;
+using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Threading;
-using SitemapTester.WebUI.Abstract;
-using SitemapTester.WebUI.Models;
+using System.Web;
 
 namespace SitemapTester.WebUI.Infrastructure
 {
@@ -25,6 +27,7 @@ namespace SitemapTester.WebUI.Infrastructure
         /// <summary>
         /// Method measures response time for all urls
         /// </summary>
+
         public List<PageMeasurement> GetDomainMeasurements(HashSet<string> urls)
         {
             urls.AsParallel().ForAll(x =>
@@ -51,7 +54,7 @@ namespace SitemapTester.WebUI.Infrastructure
         /// </summary>
         private int GetResponseTime(string url)
         {
-            if (GetServerResponseStatusCode(url) != (int) HttpStatusCode.OK)
+            if (GetServerResponseStatusCode(url) != (int)HttpStatusCode.OK)
             {
                 _isServerResponseCodeOk = false;
                 return 0;

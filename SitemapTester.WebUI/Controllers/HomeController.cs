@@ -1,11 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web.Mvc;
-using SitemapTester.Domain.Abstract;
+﻿using SitemapTester.Domain.Abstract;
 using SitemapTester.Domain.Entities;
 using SitemapTester.WebUI.Abstract;
 using SitemapTester.WebUI.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
 
 namespace SitemapTester.WebUI.Controllers
 {
@@ -17,7 +18,7 @@ namespace SitemapTester.WebUI.Controllers
         private IMeasurementRepository _repository;
         private DomainMeasurementsDto _measurementsDto;
 
-        public HomeController(IUrlsParse urlParse, IMeasureDomain measureDomain, 
+        public HomeController(IUrlsParse urlParse, IMeasureDomain measureDomain,
             ISaveMeasurementsToDb saveToDb, IMeasurementRepository repository)
         {
             _urlParse = urlParse;
@@ -29,7 +30,7 @@ namespace SitemapTester.WebUI.Controllers
 
         public ActionResult Index()
         {
-             return View();
+            return View();
         }
 
         [HttpPost]
@@ -67,13 +68,13 @@ namespace SitemapTester.WebUI.Controllers
         }
 
         public ViewResult Test(Guid measurementGuid)
-        {  
+        {
             return View(_repository.Context.DomainMeasurements
                 .Where(x => x.MeasurementGuid == measurementGuid)
                 .Select(x => x)
                 .OrderByDescending(x => x.MaxResponseTime));
         }
-        
+
         public ActionResult GetChart(DomainMeasurement measurement)
         {
             return Json(_repository.Context.DomainMeasurements

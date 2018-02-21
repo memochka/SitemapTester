@@ -1,6 +1,9 @@
-﻿using System.Collections.Generic;
-using HtmlAgilityPack;
+﻿using HtmlAgilityPack;
 using SitemapTester.WebUI.Abstract;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 
 namespace SitemapTester.WebUI.Infrastructure
 {
@@ -12,10 +15,10 @@ namespace SitemapTester.WebUI.Infrastructure
 
         public HashSet<string> AllUrlsOnCurrentPage { get; set; }
 
-        public int DepthOfUrlsSearch { get; set; } 
+        public int DepthOfUrlsSearch { get; set; }
 
         public string DomainUrl { get; set; }
-        
+
         public UrlsParse()
         {
             AllUrls = new HashSet<string>();
@@ -38,7 +41,7 @@ namespace SitemapTester.WebUI.Infrastructure
             }
 
             AllUrlsOnCurrentPage.Clear();
-            AllUrlsOnCurrentLayer.Clear();     
+            AllUrlsOnCurrentLayer.Clear();
             return AllUrls;
         }
 
@@ -91,7 +94,7 @@ namespace SitemapTester.WebUI.Infrastructure
             foreach (HtmlNode node in doc.DocumentNode.SelectNodes("//a[@href]"))
             {
                 string hrefValue = node.GetAttributeValue("href", string.Empty);
-                
+
                 if (hrefValue.StartsWith("/") || hrefValue.StartsWith(DomainUrl) && !hrefValue.StartsWith("//"))
                 {
                     if (hrefValue.StartsWith("/"))

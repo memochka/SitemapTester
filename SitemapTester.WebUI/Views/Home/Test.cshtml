@@ -1,9 +1,7 @@
 ﻿@model IEnumerable<SitemapTester.Domain.Entities.DomainMeasurement>
-
 @{
     ViewBag.Title = "Test page";
 }
-
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 <script type="text/javascript">
     google.charts.load('current', { 'packages': ['corechart']});
@@ -30,13 +28,12 @@
         });
     }
 </script>
-
 <section>
     <article>
         <div class="container">
             <div class="row">
                 <div id="chart_div">
-                    @* Здесь скрипт выстраивает граффик *@
+                    @* Here the script builds a chart *@
                 </div>
             </div>
         </div>
@@ -50,26 +47,26 @@
                     <br>
                     <table class="table test-table table-bordered table-striped">
                         <thead>
-                        <tr>
-                            <th class="test-table-url"><b>URL</b></th>
-                            <th><b>Min Request time</b></th>
-                            <th><b>Max Request time</b></th>
-                        </tr>
+                            <tr>
+                                <th class="test-table-url"><b>URL</b></th>
+                                <th><b>Min Request time</b></th>
+                                <th><b>Max Request time</b></th>
+                            </tr>
                         </thead>
                         <tbody>
-                        @foreach (var item in Model)
-                        {
-                            <tr>
-                                <td><a href=@item.PageUrl>@item.PageUrl</a></td>
-                                <td>@item.MinResponseTime</td>
-                                <td>@item.MaxResponseTime</td>
-                            </tr>
-                        }
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td><a href=@item.PageUrl>@item.PageUrl</a></td>
+                                    <td>@item.MinResponseTime</td>
+                                    <td>@item.MaxResponseTime</td>
+                                </tr>
+                            }
                         </tbody>
                     </table>
                 </div>
                 <div class="col-md-1"></div>
-           </div>
+            </div>
         </div>
     </article>
 </section>

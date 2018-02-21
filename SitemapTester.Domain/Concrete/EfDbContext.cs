@@ -1,5 +1,10 @@
-﻿using System.Data.Entity;
-using SitemapTester.Domain.Entities;
+﻿using SitemapTester.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace SitemapTester.Domain.Concrete
 {

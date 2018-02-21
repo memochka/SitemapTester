@@ -1,83 +1,109 @@
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\ApplicationInsights.config
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SitemapTester.WebUI.dll.config
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SitemapTester.WebUI.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SitemapTester.WebUI.pdb
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\EntityFramework.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\EntityFramework.SqlServer.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\HtmlAgilityPack.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\Microsoft.Web.Infrastructure.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SimpleInjector.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SimpleInjector.Integration.Web.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SimpleInjector.Integration.Web.Mvc.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SitemapTester.Domain.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.Helpers.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.Mvc.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.Razor.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.WebPages.Deployment.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.WebPages.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.WebPages.Razor.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\WebActivator.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SitemapTester.Domain.pdb
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SitemapTester.Domain.dll.config
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\EntityFramework.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\EntityFramework.SqlServer.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\HtmlAgilityPack.pdb
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\HtmlAgilityPack.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SimpleInjector.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SimpleInjector.Integration.Web.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\SimpleInjector.Integration.Web.Mvc.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.Helpers.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.Mvc.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.Razor.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.WebPages.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.WebPages.Deployment.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\bin\System.Web.WebPages.Razor.xml
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\obj\Debug\SitemapTester.WebUI.csprojResolveAssemblyReference.cache
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\obj\Debug\SitemapTester.WebUI.csproj.CoreCompileInputs.cache
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\obj\Debug\SitemapTester.WebUI.dll
-c:\Примеры Кода\UkadGroup-master\UkadGroup.WebUI\obj\Debug\SitemapTester.WebUI.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\ApplicationInsights.config
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.WebUI.dll.config
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.WebUI.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.WebUI.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.SqlServer.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\HtmlAgilityPack.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\Microsoft.Web.Infrastructure.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.Mvc.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.Domain.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Helpers.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Mvc.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Razor.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Deployment.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Razor.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\WebActivator.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.Domain.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.Domain.dll.config
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.SqlServer.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\HtmlAgilityPack.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\HtmlAgilityPack.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.Mvc.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Helpers.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Mvc.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Razor.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Deployment.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Razor.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.csprojResolveAssemblyReference.cache
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.csproj.CoreCompileInputs.cache
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\Antlr3.Runtime.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\Newtonsoft.Json.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Optimization.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\WebGrease.dll
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\Antlr3.Runtime.pdb
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\Newtonsoft.Json.xml
-c:\Примеры Кода\SitemapTester\SitemapTester.WebUI\bin\System.Web.Optimization.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\ApplicationInsights.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.WebUI.dll.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.WebUI.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.WebUI.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Helpers.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Mvc.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Optimization.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Razor.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\WebGrease.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Helpers.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Mvc.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Optimization.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.Razor.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\obj\Debug\SitemapTester.WebUI.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\csc.exe
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\csc.exe.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\csc.rsp
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\csi.exe
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\csi.exe.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\csi.rsp
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.AppContext.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Console.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.IO.Compression.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.Claims.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.ValueTuple.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\vbc.exe
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\vbc.exe.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\vbc.rsp
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\HtmlAgilityPack.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.Domain.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\WebActivator.dll
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.Domain.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SitemapTester.Domain.dll.config
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\HtmlAgilityPack.pdb
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\HtmlAgilityPack.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\demch\source\repos\SitemapTester\SitemapTester.WebUI\bin\System.Diagnostics.DiagnosticSource.xml
